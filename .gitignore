@@ -65,7 +65,7 @@ build/
 *.swp
 *.swo
 *~
-settings.json
+*.json
 
 # Database backups #
 *.sql
