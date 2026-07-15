@@ -81,3 +81,8 @@ build/
 # OS files #
 Thumbs.db
 .DS_Store
+# Node/Next build artifacts
+node_modules/
+.next/
+inventory-center-prototype/node_modules/
+inventory-center-prototype/.next/
